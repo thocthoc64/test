@@ -1,6 +1,6 @@
 ```mermaid
-graph TD
-    A["Nộp hồ sơ khai thuế mỗi Quý"] --> A1["Thuế GTGT mẫu (TT80/2021)-01/GTGT(00-Hoạt động sản xuất kinh doanh thông thường)"]
+graph TB
+    A["Nộp hồ sơ khai thuế mỗi Quý"] --> A1["Thuế GTGT mẫu TT80/2021-01/GTGT"]
     A --> A2["Thuế TNCN (nếu có)"]
     A --> AL["Lưu ý"]
     AL --> AL1["Kê khai qua phần mềm hỗ trợ kê khai thuế HTKK, ghi và xuất xml"]
