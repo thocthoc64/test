@@ -1,4 +1,3 @@
-```markdown
 ```mermaid
 graph TD
     A["Nộp hồ sơ khai thuế mỗi Quý"] --> A1["Thuế GTGT mẫu TT80/2021-01/GTGT"]
